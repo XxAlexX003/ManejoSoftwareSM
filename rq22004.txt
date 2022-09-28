@@ -1,1 +1,5 @@
 Meybell Jacqueline Ramirez Quintanilla
+<<<<<<< HEAD
+=======
+practicando para el parcial. xd
+>>>>>>> d008eaa3e4c6dbf29613d398b29ccc6cdafee1ab
